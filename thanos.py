@@ -29,10 +29,6 @@ def search(dirname):
     except PermissionError:
         print("[😈] Permission Error. Thanos need Root Perminssion")
 
-
-# allfilecount = getFiles(target)
-
-# halffilecount = allfilecount / 2
 search(target)
 random.shuffle(filelist)
 print("[😈] Death note is ready...")
