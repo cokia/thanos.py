@@ -4,6 +4,9 @@
 그는 당신의 파일중 절반을 건틀렛과 함께 손을 튕겨서 날려버릴거에요..!
 당신이 정말 운이좋다면, 그는 별 중요하지 않은 파일들만 날려버리겠죠? 행운을 빌어요 :D
 
+https://blog.hanukoon.com/thanos.py
+공식 홈페이지에요 ㅇㅁㅇ
+
 ## Install
 
 `pip install thanos-py`
